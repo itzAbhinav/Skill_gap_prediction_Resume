@@ -1,5 +1,8 @@
 # 🎯 Skill Gap Scanner
 
+# 🧿 Access link:
+Click here 👉 https://skill-gap-scanner-res.vercel.app/
+
 > Drop in a resume and a job description. See exactly what's missing — and fix it, right there.
 
 A web tool that compares a resume against a job posting, scores the match like a real ATS would, and lets you build a tailored, downloadable resume to close the gap — without ever putting words in your mouth.
